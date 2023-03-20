@@ -2,17 +2,28 @@
 
 Back End PHP Developer 5 years of experience. Over 10 years of overall IT experience.
 
-Languages:			PHP, SQL, JavaScript, Python, Bash	
-Backend:				Laravel, Symfony, Twig	
-Frontend:				HTML5, CSS3, Bootstrap, jQuery	
+Languages:			PHP, SQL, JavaScript, Python, Bash
+
+Backend:				Laravel, Symfony, Twig
+
+Frontend:				HTML5, CSS3, Bootstrap, jQuery
+
 Communication:	REST, JSON, XML, SMTP	
-Testing:				PHPUnit, Codeception, Mockery	
-Architecture:		Design Patterns, MVC, Microservices	
+
+Testing:				PHPUnit, Codeception, Mockery
+
+Architecture:		Design Patterns, MVC, Microservices
+
 Databases:			MySQL, PostgreSQL, MongoDB, ElasticSearch, Redis, RocksDB	
-Queues:					Rabbit MQ, Beanstalk	
+
+Queues:					Rabbit MQ, Beanstalk
+
 OS:							Linux (Debian, Ubuntu), Windows, CentOS	
-Monitoring:			XHProf, Zabbix, Graylog2	
+
+Monitoring:			XHProf, Zabbix, Graylog2
+
 Methodologies:	Agile, Scrum, Kanban, Waterfall	
+
 Other:					Git, Composer, Docker, Xdebug, Asana, LXC, Ansible
 
 Contact info:
