@@ -1,35 +1,22 @@
 ### Hi there 👋
 
-I am Back End Web Developer and System Administrator. Extensive experience in software architecture design, software development and software implementation in business processes. A good understanding of the principles of software development, networking and experience in IT System administration allow me to solve the tasks in the most efficient way, as well as to provide support and error correction in the most complex cases.
+Back End PHP Developer 5 years of experience. Over 10 years of overall IT experience.
 
-KEY SKILLS:
-- PHP, PHP Frameworks: Laravel, Symfony, Zend Framework, PhpUnit
-- SQL & Databases: MySQL, PostgreSQL, SQLite
-- NoSQL: MongoDB, Redis, Elasticsearch
-- Front-End: HTML/CSS, Bootstrap, JavaScript & jQuery basic knowledge
-- Python, Bash
-- Git, Github
-- Linux & Network management - IT System Administrator experience include virtualization (KVM, LXC) and CAC (Ansible)
-- Problem Solving, old code support, benchmarking & performance enhancement
-- Experience in software implementation into a business workflow
-- Agile management principles: Kanban and Scrum
+Languages:			PHP, SQL, JavaScript, Python, Bash	
+Backend:				Laravel, Symfony, Twig	
+Frontend:				HTML5, CSS3, Bootstrap, jQuery	
+Communication:	REST, JSON, XML, SMTP	
+Testing:				PHPUnit, Codeception, Mockery	
+Architecture:		Design Patterns, MVC, Microservices	
+Databases:			MySQL, PostgreSQL, MongoDB, ElasticSearch, Redis, RocksDB	
+Queues:					Rabbit MQ, Beanstalk	
+OS:							Linux (Debian, Ubuntu), Windows, CentOS	
+Monitoring:			XHProf, Zabbix, Graylog2	
+Methodologies:	Agile, Scrum, Kanban, Waterfall	
+Other:					Git, Composer, Docker, Xdebug, Asana, LXC, Ansible
 
-Languages:
-- English
-- Russian
-
-
-<!--
-**vasiliishvakin/vasiliishvakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact info:
++972 54-693-4644
+vasilii.shvakin@gmail.com
+https://www.linkedin.com/in/vasiliishvakin/
+Ramla, Center District, Israel
