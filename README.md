@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Back End PHP Developer 5 years of experience. Over 10 years of overall IT experience.
+Back End Developer 5 years of experience. Over 10 years of overall IT experience.
 
 |   | Skills |
 |-------------|-------------|
