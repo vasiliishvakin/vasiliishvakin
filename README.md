@@ -12,9 +12,3 @@ Full Stack Web Developer with expertise in PHP, Python, SQL, and JavaScript. Ski
 | *Methodologies*:   |  Agile (Scrum/Kanban), CI	  |
 |  *other tools*: | Linux, Git, Docker, PHPUnit, Bash, Ansible|
 |  *additional skills*: | Deployment, Code Review, Documentation, Mentorship|
-
-#### Contact info: ####
-* Israel Center District
-* +972 54-693-4644
-* vasilii.shvakin@gmail.com
-* https://www.linkedin.com/in/vasiliishvakin/
