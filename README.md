@@ -1,6 +1,6 @@
 ### Vasilii Shvakin
 
-Software Engineer specializing in Full Stack Web Development with expertise in PHP, Python, SQL, and JavaScript. Skilled in backend frameworks like Laravel and Symfony, as well as pure PHP and other related solutions. Proficient in working with SQL and NoSQL databases, including MySQL and MongoDB. Experienced in developing frontend applications using HTML, CSS, React, and Bootstrap. Well-versed in OOP, MVC, microservices, and REST. Also proficient in Docker and Linux server administration. Conducts code reviews and provides mentorship.
+Full Stack Web Developer with expertise in PHP, Python, SQL, and JavaScript. Skilled in backend frameworks like Laravel and Symfony. Proficient in working with SQL and NoSQL databases, including MySQL and MongoDB. Experienced in developing frontend applications using HTML, CSS, React, and Bootstrap. Well-versed in OOP, MVC, microservices, and REST. Also proficient in Docker and has experience in Linux server administration. Knowledgeable in networking principles and common protocols and services. Conducts code reviews and provides mentorship.
 
 | | KEY SKILLS |
 |-------------|-------------|
